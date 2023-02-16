@@ -7,6 +7,8 @@
 - 💼 &nbsp; Working as a FrontEnd Developer.
 - 🌱 &nbsp; Learning more about UI/UX Design.
 
+![](https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif)
+
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 ### 💻 Programming languages and Others
