@@ -46,5 +46,5 @@
 
 ### 💬 Contact me 
   alihazemherzalla@gmail.com
-  ![![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-herzalla-404105220/)
+  ![https://www.linkedin.com/in/ali-herzalla-404105220/](![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white))
   
