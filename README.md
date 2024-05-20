@@ -5,7 +5,7 @@
 - 🤔 &nbsp; Exploring new technologies.
 - 🎓 &nbsp; Studying Computer Science at Al-Hussein Bin Talal University.
 - 💼 &nbsp; Working as a full stack web developer.
-- 🌱 &nbsp; Learning more about UI/UX Design.
+- 🌱 &nbsp; Learning more about DevOps Engineering.
 
 ![](https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif)
 
