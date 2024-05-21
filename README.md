@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies.
-- 🎓 &nbsp; Studying Computer Science at Al-Hussein Bin Talal University.
+- 🎓 &nbsp; Studied Computer Science at Al-Hussein Bin Talal University.
 - 💼 &nbsp; Working as a full stack web developer.
 - 🌱 &nbsp; Learning more about DevOps Engineering.
 
