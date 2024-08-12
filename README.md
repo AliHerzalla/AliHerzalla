@@ -3,8 +3,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies.
-- 🎓 &nbsp; Studied Computer Science at Al-Hussein Bin Talal University.
-- 💼 &nbsp; Working as Associate Support Engineer.
+- 💼 &nbsp; Working as Support And Implementation Engineer.
 - 🌱 &nbsp; Learning more about DevOps Engineering.
 
 ![](https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif)
